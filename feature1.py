@@ -6,3 +6,9 @@ print("브랜치 작업 입니다")
 # 받아오기전에 git add . 
 # commit save 
 # git pull ?? 
+
+# feature :  # 이것은 데스크탑에서 작업하는 파일입니다.  
+# 사용완료함  
+# 메인에  올려보자 
+
+
